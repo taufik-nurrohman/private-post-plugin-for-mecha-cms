@@ -1,0 +1,5 @@
+plugin_private_post:
+  hint: Silakan masukan kata kunci yang Anda dapatkan dari penulis posting ini untuk bisa mengakses konten!
+  error: Kata kunci yang Anda berikan salah.
+  description: <p><em>Ini adalah pos pribadi.</em></p>
+  __description: Tambahkan sebuah kata kunci untuk melindungi pos ini. Biarkan kosong untuk mengizinkan akses.

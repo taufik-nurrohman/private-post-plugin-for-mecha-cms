@@ -1,0 +1,5 @@
+plugin_private_post:
+  hint: Please enter the password you get from this post author to access the content!
+  error: Wrong password.
+  description: <p><em>This post is private.</em></p>
+  __description: Add a password to protect this post. Leave empty to allow access.

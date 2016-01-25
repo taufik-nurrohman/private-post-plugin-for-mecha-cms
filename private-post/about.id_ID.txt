@@ -1,0 +1,28 @@
+Title: Pos Pribadi
+Author: Taufik Nurrohman
+URL: http://latitudu.com
+Version: 1.0.0
+
+====
+
+> Batasi akses ke dalam konten pos Anda dengan memberikan kata kunci perlindungan.
+
+Masukkan kata kunci perlindungan pada bidang kustom yang tersedia pada editor posting:
+
+~~~ .no-highlight
+asdfasdf
+~~~
+
+Buat pertanyaan kustom dengan mengatur nilai bidang seperti ini:
+
+~~~ .no-highlight
+<jawaban>: <pertanyaan>
+~~~
+
+Contoh:
+
+~~~ .no-highlight
+wow: Apa itu <em>doge</em>?
+~~~
+
+<!-- block:donate -->
